@@ -4,7 +4,7 @@ The player must roll the dice, accumulating points which are shown under the "Cu
 
 The original game was created within the scope of The Complete Javascript Course by Jonas Schmedtmann.
 
-Live Demo: XXX
+Live Demo: https://ebetulo.github.io/Dice-Game/
 
 ## Prerequisites:
 
